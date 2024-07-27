@@ -26,7 +26,7 @@ const Contact = () => {
                         </p>
                         <p>
                             <strong>WhatsApp:</strong>&nbsp;
-                            <a target='_blanck' href="https://wa.me/8200185968" className="text-blue-400 hover:text-blue-300">+91-8200185968</a>
+                            <a target='_blanck' href="https://wa.me/+918200185968" className="text-blue-400 hover:text-blue-300">+91-8200185968</a>
                         </p>
                         <p>
                             <strong>Email:</strong>&nbsp; <a target='_blanck' href="mailto:newmargimmigration.ahm@gmail.com" className="text-blue-400 hover:text-blue-300">newmargimmigration.ahm@gmail.com</a>
